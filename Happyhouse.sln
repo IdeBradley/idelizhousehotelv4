@@ -5,6 +5,15 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happyhouse", "Happyhouse\Happyhouse.csproj", "{9785C65A-A544-499B-A481-AE9F5E25A560}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HouseHotelv2", "..\..\New folder\webapicontroller\HouseHotelv2\HouseHotelv2.csproj", "{FAC9574D-CE52-419A-B596-FC3358AF66E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{1666FBB7-43C7-4446-9253-49515FAAE994}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +42,14 @@ Global
 		{9785C65A-A544-499B-A481-AE9F5E25A560}.Release|x86.ActiveCfg = Release|x86
 		{9785C65A-A544-499B-A481-AE9F5E25A560}.Release|x86.Build.0 = Release|x86
 		{9785C65A-A544-499B-A481-AE9F5E25A560}.Release|x86.Deploy.0 = Release|x86
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FAC9574D-CE52-419A-B596-FC3358AF66E6}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
